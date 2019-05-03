@@ -1,7 +1,6 @@
-# RiskEngineering609
-================================================
-<br>
-## Introduction
+# RiskEngineering609 <br>
+
+## HOWTO
 This reposotory is created for the graduate level course CIVE609 Risk Enginnering in McGill University.<br><br>
 Several simulations about the probability were conducted in MatLab.<br><br>
 The assignment can be found in the folder, and here I also show some examples in the following.<br><br>
