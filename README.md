@@ -1,5 +1,4 @@
 # RiskEngineering609 <br>
-=========================================
 
 ## Introduction
 * This reposotory is created for the graduate level course CIVE609 Risk Enginnering in McGill University.<br><br>
